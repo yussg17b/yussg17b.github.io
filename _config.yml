@@ -73,7 +73,7 @@ netease_comment: false
 
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
-sidebar-about-description: "要做一个有梦想的咸鱼 <br> 高一（7）班 Team @ wsj and ljc"
+sidebar-about-description: "世界那么大，多看看，多想想，多试试。 <br> 高一（7）班 Team @ wsj and ljc"
 sidebar-avatar: https://github.com/yussg17b.png # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags
@@ -90,6 +90,6 @@ page-mathjax: false
 # Friends
 friends:
   [
-    { title: "wsj", href: "http://02halei.github.io" },
+    # { title: "wsj", href: "" },
     
   ]
