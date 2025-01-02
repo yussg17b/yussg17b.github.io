@@ -1,4 +1,4 @@
-       ---
+---
 layout:     post
 title:      "元旦活动"
 subtitle:   " ljc吟诗一首 "
